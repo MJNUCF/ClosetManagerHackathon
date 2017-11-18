@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_All"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_all" />
+
+    <item
+        android:id="@+id/navigation_Jackets"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_jackets" />
+
+    <item
+    android:id="@+id/navigation_Shirts"
+    android:icon="@drawable/ic_home_black_24dp"
+    android:title="@string/title_shirts" />
+
+    <item
+        android:id="@+id/navigation_Pants"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_pants" />
+
+    <item
+        android:id="@+id/navigation_Shoes"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_shoes" />
+
+</menu>

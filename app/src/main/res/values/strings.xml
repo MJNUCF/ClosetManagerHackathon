@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ClosetManager</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_my_closet">MyClosetActivity</string>
+    <string name="title_all">All</string>
+    <string name="title_jackets">Jackets</string>
+    <string name="title_shirts">Shirts</string>
+    <string name="title_pants">Pants</string>
+    <string name="title_shoes">Shoes</string>
+</resources>
